@@ -1,5 +1,5 @@
 import wolframalpha
-Client = wolframalpha.Client("HRK7Q3-U78RHLUQJ3")
+Client = wolframalpha.Client("")
 
 import wikipedia
 
